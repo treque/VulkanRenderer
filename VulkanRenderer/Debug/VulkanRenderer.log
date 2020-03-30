@@ -1,6 +1,2 @@
-﻿  Initializers.cpp
-  Validation.cpp
-  VulkanInstance.cpp
-  main.cpp
-  Generating Code...
-  VulkanRenderer.vcxproj -> C:\Users\tran9\source\repos\VulkanRenderer\Debug\VulkanRenderer.exe
+﻿  main.cpp
+  VulkanRenderer.vcxproj -> C:\Users\tran9\Desktop\VulkanRenderer\VulkanRenderer\Debug\VulkanRenderer.exe
